@@ -3,7 +3,7 @@
 ## Load Balancing for Docker containers 
 
 ## Work with Nginx
-https://www.youtube.com/watch?v=CS6bzlwdhqU
+https://www.youtube.com/watch?v=HJ9bECmuwKo
 
 ## Work with AWS ECS
 
