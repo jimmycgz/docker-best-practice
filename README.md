@@ -2,9 +2,10 @@
 
 ## WOrk with docker-compose
 
-Feature List:
+Features:
 
 * Auto restart the container if creashes
+### HEY, do you still need kubernetes if the docker containers can be automatically restared when crash ?? Should it be simply happy?
 
 * Get image name from Host ENV variables
 
