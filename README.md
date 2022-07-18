@@ -30,6 +30,12 @@ services:
     restart: always
 
 ```
+
+## DOCKER COMPOSE WITH TWO CONTAINERS - FLASK REST API SERVICE CONTAINER AND AN APACHE SERVER CONTAINER
+Refer:https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-FlaskREST-Service-Container-and-Apache-Container.php
+
+or: https://github.com/Einsteinish/docker-compose-flask-rest-api-service-container-and-apache-container
+
 ## Load Balancing for Docker containers 
 ## Work with Nginx
 https://www.youtube.com/watch?v=HJ9bECmuwKo
