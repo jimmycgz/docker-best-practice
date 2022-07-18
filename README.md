@@ -36,6 +36,11 @@ Refer:https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-FlaskREST-Service-
 
 or: https://github.com/Einsteinish/docker-compose-flask-rest-api-service-container-and-apache-container
 
+## docker-compose: Python Flask Redis with MySQL
+Refer:https://stackoverflow.com/questions/45658144/connecting-to-mysql-from-flask-application-using-docker-compose
+
+Same as docker-compose-network.md
+
 ## Load Balancing for Docker containers 
 ## Work with Nginx
 https://www.youtube.com/watch?v=HJ9bECmuwKo
