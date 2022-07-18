@@ -1,3 +1,5 @@
+From: https://stackoverflow.com/users/10799921/artur-spirin
+
 For others who encounter similar issue, if you are mapping different ports from host to container for the MySQL service, make sure that container that needs to connect to the MySQL service is using the port for the container not for the host.
 
 Here is an example of a docker compose file. Here you can see that my application (which is running in a container) will be using port 3306 to connect to the MySQL service (which is also running in a container on port 3306). Anyone connecting to this MySQL service from the outside of the "backend" network which is basically anything that does not run in a container with the same network will need to use port 3308 to connect to this MySQL service.
